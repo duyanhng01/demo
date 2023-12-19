@@ -83,7 +83,7 @@ global $conn;
                                             Login
                                         </button>
                                         <hr>
-                                        <a href="index.php" class="btn btn-google btn-user btn-block">
+                                        <a href="redirect-google.php" class="btn btn-google btn-user btn-block">
                                             <i class="fab fa-google fa-fw"></i> Login with Google
                                         </a>
                                         <a href="index.php" class="btn btn-facebook btn-user btn-block">
